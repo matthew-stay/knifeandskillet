@@ -1,0 +1,11 @@
+/* line 4, /Users/Helios/Sites/knifeandskillet/source/css/site.scss */
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+/* line 9, /Users/Helios/Sites/knifeandskillet/source/css/site.scss */
+.leaderboard {
+  text-align: center; }
+  /* line 11, /Users/Helios/Sites/knifeandskillet/source/css/site.scss */
+  .leaderboard h1 {
+    font-size: 2em; }
