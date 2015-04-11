@@ -1,0 +1,14 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.leaderboard {
+  text-align:center;
+  h1 {
+    font-size:2em;
+  }
+}
